@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://5nju2cqeofb"
+path="res://.godot/imported/prueba_checkpoint.dialogue-e56353a8666dac7c4d9025f88f3dc50f.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/prueba/1_stealth/stealth_components/prueba_checkpoint.dialogue"
+dest_files=["res://.godot/imported/prueba_checkpoint.dialogue-e56353a8666dac7c4d9025f88f3dc50f.tres"]
+
+[params]
+
+defaults=true

@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://bemeg607vx0lu"
+path="res://.godot/imported/prueba_intro.dialogue-789cada61127b070bf93cf4b03170c4f.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/prueba/0_intro/intro_components/prueba_intro.dialogue"
+dest_files=["res://.godot/imported/prueba_intro.dialogue-789cada61127b070bf93cf4b03170c4f.tres"]
+
+[params]
+
+defaults=true

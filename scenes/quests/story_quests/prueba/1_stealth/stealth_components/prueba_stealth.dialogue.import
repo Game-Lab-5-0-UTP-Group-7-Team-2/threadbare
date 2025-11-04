@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://byccjwccbv740"
+path="res://.godot/imported/prueba_stealth.dialogue-88a172a0c0ab63fac3da270eff7daf92.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/prueba/1_stealth/stealth_components/prueba_stealth.dialogue"
+dest_files=["res://.godot/imported/prueba_stealth.dialogue-88a172a0c0ab63fac3da270eff7daf92.tres"]
+
+[params]
+
+defaults=true

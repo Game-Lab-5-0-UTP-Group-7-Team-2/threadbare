@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://d0alronk4cqi"
+path="res://.godot/imported/prueba_outro.dialogue-49603ecfd9a32d6a59df4808a973830e.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/prueba/4_outro/outro_components/prueba_outro.dialogue"
+dest_files=["res://.godot/imported/prueba_outro.dialogue-49603ecfd9a32d6a59df4808a973830e.tres"]
+
+[params]
+
+defaults=true

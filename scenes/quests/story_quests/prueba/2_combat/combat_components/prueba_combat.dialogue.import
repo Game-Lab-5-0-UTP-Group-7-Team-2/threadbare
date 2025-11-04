@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://kaa42xci8uik"
+path="res://.godot/imported/prueba_combat.dialogue-1b8731257cfa9a58011322ca2135383c.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/prueba/2_combat/combat_components/prueba_combat.dialogue"
+dest_files=["res://.godot/imported/prueba_combat.dialogue-1b8731257cfa9a58011322ca2135383c.tres"]
+
+[params]
+
+defaults=true
